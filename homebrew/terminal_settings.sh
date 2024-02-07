@@ -1,4 +1,6 @@
-!#/bin/bash
+#!/bin/bash
+
+echo Adding custom settings to .bash_profile
 
 # bash_profile
 echo "export CLICOLOR=1" >> ~/.bash_profile

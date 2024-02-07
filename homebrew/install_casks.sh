@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Install apps from homebrew/cask
-# brew tap homebrew/cask
+echo "Installing apps from homebrew/cask..."
+
 brew install --cask visual-studio-code
 brew install --cask rar
 
@@ -25,3 +25,5 @@ brew install --cask freac
 
 brew install --cask sonic-visualiser
 brew install --cask reaper
+
+echo "Installation script completed successfully"
