@@ -20,19 +20,21 @@ A collection of Bash scripts designed to automate the setup and configuration of
 1. **Clone the Repository**: Start by cloning the `macOS DevSetup Scripts` repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/dev-config-scripts.git
+   git clone https://github.com/francescopapaleo/macos-dev-setup-scripts.git
+   ```
 
-1. **Run the Scripts**: Navigate to the cloned repository and run the desired scripts
+2. **Run the Scripts**: Navigate to the cloned repository and run the desired scripts
 
-```bash
-cd dev-config-scripts
-chmod +x *.sh
-./<script-name>.sh
-```
+   ```bash
+   cd dev-config-scripts
+   chmod +x *.sh
+   ./<script-name>.sh
+   ```
 
 ## License
-
+```
 macOS DevSetup Scripts - Automate setup and configuration of a dev environment
+
 Copyright (C) 2024 Francesco Papaleo
 
 This program is free software: you can redistribute it and/or modify
@@ -47,4 +49,4 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
+```
