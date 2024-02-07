@@ -33,7 +33,7 @@ A collection of Bash scripts designed to automate the setup and configuration of
 
 ## License
 ```
-macOS DevSetup Scripts - Automate setup and configuration of a dev environment
+macOS DevSetup Scripts - Automate setup of a dev environment
 
 Copyright (C) 2024 Francesco Papaleo
 
