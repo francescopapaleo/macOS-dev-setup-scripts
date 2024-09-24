@@ -26,13 +26,23 @@ brew install --cask discord
 # brew install --cask notion
 brew install --cask zotero
 # brew install --cask soulseek
-brew install --cask obs
+brew install --cask anydesk
 
 brew install --cask spotify
 brew install --cask vlc
+
 brew install --cask freac
+brew install --cask obs
 
 # brew install --cask sonic-visualiser
 brew install --cask reaper
+brew install --cask cycling74-max
+
+echo "You will have to manually install the following apps:"
+echo "  - Dante Virtual Soundcard"
+echo "  - Dante Controller"
+echo "  - HOLOPHONIX Native / Designer"
+echo "  - HOLOPHONIX Virtual Soundcard"
+echo "  - HOLOSCORE"
 
 echo "Installation script completed successfully"

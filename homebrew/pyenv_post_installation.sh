@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Installing Pyenv..."
-brew install pyenv pyenv-virtualenv
+brew install pyenv
 wait
 
 echo "Adding Pyenv init to .bash_profile..."
