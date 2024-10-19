@@ -8,14 +8,7 @@ cd "$SCRIPT_DIR"
 ./core/homebrew.sh
 ./core/pyenv.sh
 
-echo "Applying Finder preferences from finder_preferences.plist..."
-defaults import com.apple.finder ./preferences/finder_preferences.plist
-killall Finder
-echo "Finder preferences applied and Finder restarted."
-
-echo "Applying Terminal preferences from terminal_preferences.plist..."
-open ./preferences/terminal_preferences.plist
-echo "Terminal preferences applied."
+./core/customizations.sh
 
 ./core/vscode.sh
 
