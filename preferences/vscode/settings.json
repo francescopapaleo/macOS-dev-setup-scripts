@@ -1,0 +1,27 @@
+{
+    "workbench.colorTheme": "GitHub Dark",
+    "github.copilot.enable": {
+        "plaintext": "true",
+        "markdown": "true"
+    },
+    "git.autofetch": true,
+    "redhat.telemetry.enabled": true,
+    "python.createEnvironment.trigger": "off",
+    "yaml.schemas": {
+        "file:///Users/fra/.vscode/extensions/atlassian.atlascode-3.0.10/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "atlascode.jira.jqlList": [
+        {
+            "id": "f444d580-0063-4fc7-92f1-4e8c4e97ac8a",
+            "enabled": true,
+            "name": "My holophonix Issues",
+            "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
+            "siteId": "031ff914-a560-4e1a-83f0-b9f65cb62b6c",
+            "monitor": true
+        }
+    ],
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "notebook.defaultFormatter": "ms-python.black-formatter"
+}

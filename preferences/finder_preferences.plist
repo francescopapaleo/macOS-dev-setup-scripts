@@ -1,0 +1,1606 @@
+{
+    AppleShowAllFiles = 1;
+    ComputerViewSettings =     {
+        CustomViewStyleVersion = 1;
+        ExtendedListViewSettingsV2 =         {
+            calculateAllSizes = 1;
+            columns =             (
+                                {
+                    ascending = 1;
+                    identifier = name;
+                    visible = 1;
+                    width = 392;
+                },
+                                {
+                    ascending = 0;
+                    identifier = ubiquity;
+                    visible = 0;
+                    width = 35;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateModified;
+                    visible = 1;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateCreated;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = size;
+                    visible = 1;
+                    width = 97;
+                },
+                                {
+                    ascending = 1;
+                    identifier = kind;
+                    visible = 1;
+                    width = 115;
+                },
+                                {
+                    ascending = 1;
+                    identifier = label;
+                    visible = 0;
+                    width = 100;
+                },
+                                {
+                    ascending = 1;
+                    identifier = version;
+                    visible = 0;
+                    width = 75;
+                },
+                                {
+                    ascending = 1;
+                    identifier = comments;
+                    visible = 0;
+                    width = 300;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateLastOpened;
+                    visible = 0;
+                    width = 200;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateAdded;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareOwner;
+                    visible = 0;
+                    width = 210;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareLastEditor;
+                    visible = 0;
+                    width = 210;
+                },
+                                {
+                    ascending = 0;
+                    identifier = invitationStatus;
+                    visible = 0;
+                    width = 210;
+                }
+            );
+            iconSize = 16;
+            scrollPositionX = 1;
+            scrollPositionY = 0;
+            showIconPreview = 1;
+            sortColumn = kind;
+            textSize = 12;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        ListViewSettings =         {
+            calculateAllSizes = 1;
+            columns =             {
+                comments =                 {
+                    ascending = 1;
+                    index = 7;
+                    visible = 0;
+                    width = 300;
+                };
+                dateCreated =                 {
+                    ascending = 0;
+                    index = 2;
+                    visible = 0;
+                    width = 181;
+                };
+                dateLastOpened =                 {
+                    ascending = 0;
+                    index = 8;
+                    visible = 0;
+                    width = 200;
+                };
+                dateModified =                 {
+                    ascending = 0;
+                    index = 1;
+                    visible = 1;
+                    width = 181;
+                };
+                kind =                 {
+                    ascending = 1;
+                    index = 4;
+                    visible = 1;
+                    width = 115;
+                };
+                label =                 {
+                    ascending = 1;
+                    index = 5;
+                    visible = 0;
+                    width = 100;
+                };
+                name =                 {
+                    ascending = 1;
+                    index = 0;
+                    visible = 1;
+                    width = 392;
+                };
+                size =                 {
+                    ascending = 0;
+                    index = 3;
+                    visible = 1;
+                    width = 97;
+                };
+                version =                 {
+                    ascending = 1;
+                    index = 6;
+                    visible = 0;
+                    width = 75;
+                };
+            };
+            iconSize = 16;
+            scrollPositionX = 1;
+            scrollPositionY = 0;
+            showIconPreview = 1;
+            sortColumn = kind;
+            textSize = 12;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        WindowState =         {
+            ContainerShowSidebar = 1;
+            ShowSidebar = 1;
+            ShowStatusBar = 1;
+            ShowTabView = 1;
+            ShowToolbar = 1;
+            WindowBounds = "{{436, 1322}, {920, 492}}";
+        };
+    };
+    CopyProgressWindowLocation = "{747, 252}";
+    DesktopViewSettings =     {
+        IconViewSettings =         {
+            arrangeBy = grid;
+            backgroundColorBlue = 1;
+            backgroundColorGreen = 1;
+            backgroundColorRed = 1;
+            backgroundType = 0;
+            gridOffsetX = 0;
+            gridOffsetY = 0;
+            gridSpacing = 71;
+            iconSize = 36;
+            labelOnBottom = 0;
+            showIconPreview = 1;
+            showItemInfo = 1;
+            textSize = 12;
+            viewOptionsVersion = 1;
+        };
+    };
+    DownloadsFolderListViewSettingsVersion = 1;
+    EmptyTrashProgressWindowLocation = "{306, 75}";
+    "FK_AppCentricShowSidebar" = 1;
+    "FK_ArrangeBy" = Kind;
+    "FK_DefaultIconViewSettings" =     {
+        arrangeBy = name;
+        backgroundColorBlue = 1;
+        backgroundColorGreen = 1;
+        backgroundColorRed = 1;
+        backgroundType = 0;
+        gridOffsetX = 0;
+        gridOffsetY = 0;
+        gridSpacing = 54;
+        iconSize = 64;
+        labelOnBottom = 1;
+        showIconPreview = 1;
+        showItemInfo = 1;
+        textSize = 12;
+        viewOptionsVersion = 1;
+    };
+    "FK_DefaultListViewSettingsV2" =     {
+        calculateAllSizes = 0;
+        columns =         (
+                        {
+                ascending = 1;
+                identifier = name;
+                visible = 1;
+                width = 328;
+            },
+                        {
+                ascending = 0;
+                identifier = ubiquity;
+                visible = 0;
+                width = 35;
+            },
+                        {
+                ascending = 0;
+                identifier = dateModified;
+                visible = 0;
+                width = 181;
+            },
+                        {
+                ascending = 0;
+                identifier = dateCreated;
+                visible = 0;
+                width = 181;
+            },
+                        {
+                ascending = 0;
+                identifier = size;
+                visible = 1;
+                width = 97;
+            },
+                        {
+                ascending = 1;
+                identifier = kind;
+                visible = 1;
+                width = 115;
+            },
+                        {
+                ascending = 1;
+                identifier = label;
+                visible = 0;
+                width = 100;
+            },
+                        {
+                ascending = 1;
+                identifier = version;
+                visible = 0;
+                width = 75;
+            },
+                        {
+                ascending = 1;
+                identifier = comments;
+                visible = 0;
+                width = 300;
+            },
+                        {
+                ascending = 0;
+                identifier = dateLastOpened;
+                visible = 0;
+                width = 193;
+            },
+                        {
+                ascending = 0;
+                identifier = shareOwner;
+                visible = 0;
+                width = 200;
+            },
+                        {
+                ascending = 0;
+                identifier = shareLastEditor;
+                visible = 0;
+                width = 200;
+            },
+                        {
+                ascending = 0;
+                identifier = dateAdded;
+                visible = 1;
+                width = 181;
+            },
+                        {
+                ascending = 0;
+                identifier = invitationStatus;
+                visible = 0;
+                width = 210;
+            }
+        );
+        iconSize = 16;
+        scrollPositionX = 0;
+        scrollPositionY = 0;
+        showIconPreview = 1;
+        sortColumn = kind;
+        textSize = 13;
+        useRelativeDates = 1;
+        viewOptionsVersion = 1;
+    };
+    "FK_SidebarWidth" = 154;
+    "FK_StandardViewSettings" =     {
+        ExtendedListViewSettingsV2 =         {
+            calculateAllSizes = 0;
+            columns =             (
+                                {
+                    ascending = 1;
+                    identifier = name;
+                    visible = 1;
+                    width = 300;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateModified;
+                    visible = 1;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateCreated;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = size;
+                    visible = 1;
+                    width = 97;
+                },
+                                {
+                    ascending = 1;
+                    identifier = kind;
+                    visible = 1;
+                    width = 115;
+                },
+                                {
+                    ascending = 1;
+                    identifier = label;
+                    visible = 0;
+                    width = 100;
+                },
+                                {
+                    ascending = 1;
+                    identifier = version;
+                    visible = 0;
+                    width = 75;
+                },
+                                {
+                    ascending = 1;
+                    identifier = comments;
+                    visible = 0;
+                    width = 300;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateLastOpened;
+                    visible = 0;
+                    width = 200;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareOwner;
+                    visible = 0;
+                    width = 200;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareLastEditor;
+                    visible = 0;
+                    width = 200;
+                }
+            );
+            iconSize = 16;
+            showIconPreview = 1;
+            sortColumn = name;
+            textSize = 13;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        IconViewSettings =         {
+            arrangeBy = none;
+            backgroundColorBlue = 1;
+            backgroundColorGreen = 1;
+            backgroundColorRed = 1;
+            backgroundType = 0;
+            gridOffsetX = 0;
+            gridOffsetY = 0;
+            gridSpacing = 54;
+            iconSize = 64;
+            labelOnBottom = 1;
+            showIconPreview = 1;
+            showItemInfo = 0;
+            textSize = 12;
+            viewOptionsVersion = 1;
+        };
+        ListViewSettings =         {
+            calculateAllSizes = 0;
+            columns =             {
+                comments =                 {
+                    ascending = 1;
+                    index = 7;
+                    visible = 0;
+                    width = 300;
+                };
+                dateCreated =                 {
+                    ascending = 0;
+                    index = 2;
+                    visible = 0;
+                    width = 181;
+                };
+                dateLastOpened =                 {
+                    ascending = 0;
+                    index = 8;
+                    visible = 0;
+                    width = 200;
+                };
+                dateModified =                 {
+                    ascending = 0;
+                    index = 1;
+                    visible = 1;
+                    width = 181;
+                };
+                kind =                 {
+                    ascending = 1;
+                    index = 4;
+                    visible = 1;
+                    width = 115;
+                };
+                label =                 {
+                    ascending = 1;
+                    index = 5;
+                    visible = 0;
+                    width = 100;
+                };
+                name =                 {
+                    ascending = 1;
+                    index = 0;
+                    visible = 1;
+                    width = 300;
+                };
+                size =                 {
+                    ascending = 0;
+                    index = 3;
+                    visible = 1;
+                    width = 97;
+                };
+                version =                 {
+                    ascending = 1;
+                    index = 6;
+                    visible = 0;
+                    width = 75;
+                };
+            };
+            iconSize = 16;
+            showIconPreview = 1;
+            sortColumn = name;
+            textSize = 13;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        SettingsType = "FK_StandardViewSettings";
+    };
+    FXArrangeGroupViewBy = Name;
+    FXAtLeastOneScreenHasBeenInHIDPI = 1;
+    FXDesktopTouchBarUpgradedToTenTwelveOne = 1;
+    FXDesktopVolumePositions =     {
+        "AUDIO_01_0x1.f989a87p+28" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 211;
+        };
+        "AUDIO_01_CLONE_0x1.09a27cep+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 315;
+        };
+        "Ableton Live 10 Suite Installer_0x1.ac6749p+26" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 263;
+        };
+        "Ableton Live 12 Beta Installer_0x1.ac6749p+26" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 159;
+        };
+        "Audiolens_0x1.64c6c7ap+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 211;
+        };
+        "BACKUP_2023_0x1.504709f8p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 159;
+        };
+        "BACKUP_2024 1_0x1.5ba2175e3dep+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 159;
+        };
+        "BACKUP_2024_0x1.5ba20b6p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 159;
+        };
+        "BACKUP_2024_0x1.5ba2175e3dep+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 367;
+        };
+        "BCKP-RETINA-2024_0x1.5ba2175e3dep+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 263;
+        };
+        "BCKP-SILICON-2024_0x1.63c58272113p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 107;
+        };
+        "BLUET5_-0x1.d27e44p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 211;
+        };
+        "CATALINA_0x1.49818ddp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 159;
+        };
+        "Dante Controller_0x1.63e13e5p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 367;
+        };
+        "Dante Virtual Soundcard_0x1.58edec7p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 419;
+        };
+        "Discord_0x1.65aff098p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 315;
+        };
+        "Exodus 24.2.12_0x1.5baa6fep+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 107;
+        };
+        "FabFilter Total Bundle Installer_0x1.3dddb61p+29" =         {
+            AnchorRelativeTo = 2;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = "-429";
+        };
+        "Flux Center_0x1.57e154c8p+29" =         {
+            AnchorRelativeTo = 2;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = "-377";
+        };
+        "Google Chrome_0x1.5c6b12ap+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 263;
+        };
+        "HOLOPHONIX Native 2.1.6_0x1.5a372d3b645p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 263;
+        };
+        "HOLOPHONIX Native 2.2.0-alpha.1_0x1.5dee57085a28p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 211;
+        };
+        "HOLOPHONIX Native 2.2.3-alpha.2_0x1.65fe527f0bcp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 367;
+        };
+        "HOLOPHONIX Native 2.2.3-alpha.3_0x1.660a8ce9f42p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 315;
+        };
+        "HOLOPHONIX Native 2.2.3-alpha.4_0x1.66134aa8fd58p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 107;
+        };
+        "Holophonix_0x1.61266de8p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 367;
+        };
+        "Install macOS Big Sur_0x1.559ad3ep+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 211;
+        };
+        "Install macOS Monterey_0x1.58e5df8p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = 177;
+        };
+        "Ircam Spat5 for Max_0x1.58c6e99p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 315;
+        };
+        "LibreOffice_0x1.5b367208p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 315;
+        };
+        "LittlePlate5_5.3.8.16762_0x1.47bb9cp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 315;
+        };
+        "LittlePlate5_5.4.3.17500.dmg_0x1.60d162ep+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 263;
+        };
+        "LittleRadiator5_5.3.8.16762_0x1.47bb999p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 263;
+        };
+        "LittleRadiator5_5.4.3.17500.dmg_0x1.60d16058p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 315;
+        };
+        "Max860_0x1.5a8eea38p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 263;
+        };
+        "Max861_0x1.5bb60978p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 159;
+        };
+        "Max862_0x1.5d27ba18p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 263;
+        };
+        "Max864_0x1.61e3e0d8p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 159;
+        };
+        "NO NAME_-0x1.3c09848p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 315;
+        };
+        "Native Access 3.5.3_0x1.557aea08p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 315;
+        };
+        "OSX_0x1.5a7fcf18p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 55;
+        };
+        "OSX_0x1.5c62ec08p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 55;
+        };
+        "Ozone 11 Standard_0x1.63322f28p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 211;
+        };
+        "Ozone 8 Standard_0x1.10089bcp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 315;
+        };
+        "Ozone 9 Elements_0x1.50752cap+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 315;
+        };
+        "Ozone Imager 2_0x1.540dc0fp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 315;
+        };
+        "Product Portal_0x1.534d8c68p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 263;
+        };
+        "REDT7_0x1.5a72efe8p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 159;
+        };
+        "REW_0x1.5a95288p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 367;
+        };
+        "REW_0x1.5b7e192p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 211;
+        };
+        "REW_0x1.5c07098p+29" =         {
+            AnchorRelativeTo = 2;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = "-325";
+        };
+        "Retina HD_0x1.1de448p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 55;
+        };
+        "SAMSUNG_0x1.542fad28p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 159;
+        };
+        "SAMSUNG_0x1.63c58272113p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 211;
+        };
+        "SD256_0x1.4ebb7e1p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 107;
+        };
+        "SD256_0x1.630214dp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 107;
+        };
+        "SyndtSphere_0x1.4c4b08d8p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 107;
+        };
+        "TOSHIBA_0x1.504709f8p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 159;
+        };
+        "Time Machine Backups_0x1.474cf4c8p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 159;
+        };
+        "Trash_0x1.5e79a41p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 211;
+        };
+        "UAD Installer_0x1.59019938p+29" =         {
+            AnchorRelativeTo = 2;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = "-325";
+        };
+        "UAD Installer_0x1.5b4e4f3p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 211;
+        };
+        "Untitled_0x1.1de448p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 55;
+        };
+        "ValhallaFreqEchoOSX.pkg_0x1.4f707848p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 159;
+        };
+        "ValhallaSpaceModulatorOSX.pkg_0x1.4f70783p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 211;
+        };
+        "ValhallaSupermassiveOSX.pkg_0x1.58549768p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 263;
+        };
+        "Vinyl_0x1.5587607p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 315;
+        };
+        "Waves Central 13.0.9_0x1.361c6538p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 263;
+        };
+        "YODA_0x1.3bc8681cc2cp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 211;
+        };
+        "cmajor_0x1.57f3fbe70328p+29" =         {
+            AnchorRelativeTo = 2;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = "-429";
+        };
+        "disk0_0x1.464ba959e6e8p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 211;
+        };
+        "draw.io 23.1.5-universal_0x1.5bf70898p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 263;
+        };
+        "neutone-install_0x1.59ad2498p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 315;
+        };
+        "neutone-morpho-install_0x1.5b8dd718p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 263;
+        };
+        "ni-installer1707234840_0x1.5b550d18p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 367;
+        };
+        "ni-installer1707234872_0x1.4eac91p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 367;
+        };
+        "ni-installer1707234884_0x1.1187284p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 367;
+        };
+        "ni-installer1707234889_0x1.11872d8p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 367;
+        };
+        "ni-installer1707234895_0x1.1186fdfp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 367;
+        };
+        "ni-installer1707234899_0x1.243303dp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 367;
+        };
+        "ni-installer1728230664_0x1.4eac91p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 419;
+        };
+        "ni-installer1728230752_0x1.5b550d18p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 419;
+        };
+        "ni-installer1728230822_0x1.243303dp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 419;
+        };
+        "ni-installer1728230847_0x1.1186fdfp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 419;
+        };
+        "ni-installer1728230964_0x1.1187284p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 419;
+        };
+        "ni-installer1728230974_0x1.11872d8p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 419;
+        };
+        "ni-installer1728231303_0x1.11d4a87p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 419;
+        };
+        "ni-installer1728231310_0x1.11d4a678p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 419;
+        };
+        "ni-installer1728231331_0x1.2ba9f678p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 419;
+        };
+        "ni-installer1728231341_0x1.149861dp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 419;
+        };
+        "ni-installer1728815979_0x1.4d680edp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 107;
+        };
+        "ni-installer1728816143_0x1.4d67c39p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-174";
+            yRelative = 107;
+        };
+    };
+    FXICloudDriveDeclinedUpgrade = 0;
+    FXICloudDriveDesktop = 0;
+    FXICloudDriveDocuments = 0;
+    FXICloudDriveEnabled = 0;
+    FXICloudDriveFirstSyncDownComplete = 0;
+    FXICloudLoggedIn = 1;
+    FXInfoPanesExpanded =     {
+        MetaData = 1;
+        OpenWith = 1;
+        Preview = 0;
+        Privileges = 1;
+    };
+    FXLastSearchScope = SCcf;
+    "FXPreferencesWindow.Location" = "{{32, 151}, {377, 714}}";
+    FXPreferredGroupBy = Kind;
+    FXPreferredSearchViewStyle = Nlsv;
+    FXPreferredSearchViewStyleVersion = "%00%00%00%01";
+    FXPreferredViewStyle = Nlsv;
+    FXQuickActionsConfigUpgradeLevel = 2;
+    FXRecentFolders =     (
+                {
+            "file-bookmark" = {length = 508, bytes = 0x626f6f6b fc010000 00000410 30000000 ... 04000000 00000000 };
+            name = Applications;
+        },
+                {
+            "file-bookmark" = {length = 620, bytes = 0x626f6f6b 6c020000 00000410 30000000 ... 04000000 00000000 };
+            name = fra;
+        },
+                {
+            "file-bookmark" = {length = 732, bytes = 0x626f6f6b dc020000 00000410 30000000 ... 04000000 00000000 };
+            name = V8;
+        },
+                {
+            "file-bookmark" = {length = 696, bytes = 0x626f6f6b b8020000 00000410 30000000 ... 04000000 00000000 };
+            name = Mail;
+        },
+                {
+            "file-bookmark" = {length = 660, bytes = 0x626f6f6b 94020000 00000410 30000000 ... 04000000 00000000 };
+            name = Library;
+        },
+                {
+            "file-bookmark" = {length = 456, bytes = 0x626f6f6b c8010000 00000410 30000000 ... 04000000 00000000 };
+            name = "Retina HD";
+        },
+                {
+            "file-bookmark" = {length = 664, bytes = 0x626f6f6b 98020000 00000410 30000000 ... 04000000 00000000 };
+            name = Downloads;
+        },
+                {
+            "file-bookmark" = {length = 720, bytes = 0x626f6f6b d0020000 00000410 30000000 ... 04000000 00000000 };
+            name = "Francesco PAPALEO";
+        },
+                {
+            "file-bookmark" = {length = 928, bytes = 0x626f6f6b a0030000 00000410 30000000 ... 04000000 00000000 };
+            name = "music-dj";
+        },
+                {
+            "file-bookmark" = {length = 768, bytes = 0x626f6f6b 00030000 00000410 30000000 ... 04000000 00000000 };
+            name = Archives;
+        }
+    );
+    FXSidebarUpgradedSharedSearchToTwelve = 1;
+    FXSidebarUpgradedToTenFourteen = 1;
+    FXSidebarUpgradedToTenTen = 1;
+    FXSyncExtensionToolbarItemsAutomaticallyAdded =     (
+        "com.getdropbox.dropbox.garcon"
+    );
+    FXToolbarUpgradedToTenEight = 1;
+    FXToolbarUpgradedToTenNine = 2;
+    FXToolbarUpgradedToTenSeven = 1;
+    FavoriteTagNames =     (
+        "",
+        Red,
+        Orange,
+        Yellow,
+        Green,
+        Blue,
+        Purple,
+        Grey
+    );
+    ICloudViewSettings =     {
+        WindowState =         {
+            ContainerShowSidebar = 1;
+            ShowSidebar = 1;
+            ShowStatusBar = 1;
+            ShowTabView = 1;
+            ShowToolbar = 1;
+            WindowBounds = "{{402, 49}, {779, 826}}";
+        };
+    };
+    LastTrashState = 0;
+    MeetingRoomViewSetting =     {
+        CustomViewStyleVersion = 1;
+        WindowState =         {
+            ContainerShowSidebar = 1;
+            ShowSidebar = 1;
+            ShowStatusBar = 1;
+            ShowTabView = 1;
+            ShowToolbar = 1;
+            WindowBounds = "{{170, 32}, {780, 843}}";
+        };
+    };
+    NSNavLastRootDirectory = "/Applications";
+    NSNavLastUserSetHideExtensionButtonState = 0;
+    NSNavPanelExpandedSizeForOpenMode = "{878, 448}";
+    "NSToolbar Configuration Browser" =     {
+        "TB Display Mode" = 2;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSWindow Frame NSNavPanelAutosaveName" = "1961 373 878 363 1440 -82 1920 1055 ";
+    "NSWindowTabbingShoudShowTabBarKey-com.apple.finder.TBrowserWindow" = 1;
+    NewWindowTarget = PfHm;
+    NewWindowTargetPath = "file:///Users/fra/";
+    "PreferencesWindow.LastSelection" = SDBR;
+    PreviewPaneWidth = 240;
+    RecentMoveAndCopyDestinations =     (
+        "file:///Users/fra/Amadeus%20Dropbox/Francesco%20PAPALEO/",
+        "file:///Volumes/REDT7/REW%20Documents/",
+        "file:///Volumes/REDT7/Docs/",
+        "file:///Volumes/REDT7/Admin/",
+        "file:///Volumes/REDT7/work/ANDY%20BALCON/",
+        "file:///Volumes/REDT7/plugin-presets/",
+        "file:///Volumes/REDT7/Samples/",
+        "file:///Applications/",
+        "file:///Users/fra/Amadeus%20Dropbox/HOLOPHONIX%20(Shared%20Folder)/Beta%20Testing/Z-Archive/",
+        "file:///Users/fra/Desktop/"
+    );
+    RecentsArrangeGroupViewBy = "Date Last Opened";
+    SearchRecentsSavedViewStyleVersion = "%00%00%00%01";
+    SearchRecentsViewSettings =     {
+        WindowState =         {
+            ContainerShowSidebar = 1;
+            ShowSidebar = 1;
+            ShowStatusBar = 1;
+            ShowTabView = 1;
+            ShowToolbar = 1;
+            WindowBounds = "{{102, 233}, {920, 492}}";
+        };
+    };
+    SearchViewSettings =     {
+        GroupBy = Name;
+        IconViewSettings =         {
+            arrangeBy = name;
+            backgroundColorBlue = 1;
+            backgroundColorGreen = 1;
+            backgroundColorRed = 1;
+            backgroundType = 0;
+            gridOffsetX = 0;
+            gridOffsetY = 0;
+            gridSpacing = 54;
+            iconSize = 64;
+            labelOnBottom = 1;
+            showIconPreview = 1;
+            showItemInfo = 1;
+            textSize = 12;
+            viewOptionsVersion = 1;
+        };
+        WindowState =         {
+            ContainerShowSidebar = 1;
+            ShowPathbar = 1;
+            ShowSidebar = 1;
+            ShowStatusBar = 1;
+            ShowTabView = 1;
+            ShowToolbar = 1;
+            WindowBounds = "{{10, 32}, {871, 843}}";
+        };
+    };
+    ShowExternalHardDrivesOnDesktop = 1;
+    ShowHardDrivesOnDesktop = 1;
+    ShowMountedServersOnDesktop = 1;
+    ShowPathbar = 1;
+    ShowPreviewPane = 0;
+    ShowRecentTags = 0;
+    ShowRemovableMediaOnDesktop = 1;
+    ShowSidebar = 1;
+    ShowStatusBar = 1;
+    SidebarDevicesSectionDisclosedState = 1;
+    SidebarPlacesSectionDisclosedState = 1;
+    SidebarShowingSignedIntoiCloud = 1;
+    SidebarShowingiCloudDesktop = 0;
+    SidebarWidth = 220;
+    SmartSharedSearchViewSettings =     {
+        WindowState =         {
+            ContainerShowSidebar = 1;
+            ShowSidebar = 1;
+            ShowStatusBar = 1;
+            ShowTabView = 1;
+            ShowToolbar = 1;
+            WindowBounds = "{{324, 288}, {920, 492}}";
+        };
+    };
+    StandardViewOptions =     {
+        ColumnViewOptions =         {
+            ArrangeBy = dnam;
+            ColumnShowFolderArrow = 1;
+            ColumnShowIcons = 1;
+            ColumnWidth = 245;
+            FontSize = 13;
+            PreviewDisclosureState = 1;
+            SharedArrangeBy = kipl;
+            ShowIconThumbnails = 1;
+            ShowPreview = 1;
+        };
+    };
+    StandardViewSettings =     {
+        ExtendedListViewSettingsV2 =         {
+            calculateAllSizes = 1;
+            columns =             (
+                                {
+                    ascending = 1;
+                    identifier = name;
+                    visible = 1;
+                    width = 463;
+                },
+                                {
+                    ascending = 0;
+                    identifier = ubiquity;
+                    visible = 0;
+                    width = 35;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateModified;
+                    visible = 1;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateCreated;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = size;
+                    visible = 1;
+                    width = 97;
+                },
+                                {
+                    ascending = 1;
+                    identifier = kind;
+                    visible = 1;
+                    width = 115;
+                },
+                                {
+                    ascending = 1;
+                    identifier = label;
+                    visible = 0;
+                    width = 100;
+                },
+                                {
+                    ascending = 1;
+                    identifier = version;
+                    visible = 0;
+                    width = 75;
+                },
+                                {
+                    ascending = 1;
+                    identifier = comments;
+                    visible = 0;
+                    width = 300;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateLastOpened;
+                    visible = 0;
+                    width = 188;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateAdded;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareOwner;
+                    visible = 0;
+                    width = 210;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareLastEditor;
+                    visible = 0;
+                    width = 210;
+                },
+                                {
+                    ascending = 0;
+                    identifier = invitationStatus;
+                    visible = 0;
+                    width = 210;
+                }
+            );
+            iconSize = 16;
+            scrollPositionX = 0;
+            scrollPositionY = 0;
+            showIconPreview = 1;
+            sortColumn = kind;
+            textSize = 12;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        GalleryViewSettings =         {
+            arrangeBy = name;
+            iconSize = 48;
+            showIconPreview = 1;
+            viewOptionsVersion = 1;
+        };
+        IconViewSettings =         {
+            arrangeBy = none;
+            backgroundColorBlue = 1;
+            backgroundColorGreen = 1;
+            backgroundColorRed = 1;
+            backgroundType = 0;
+            gridOffsetX = 0;
+            gridOffsetY = 0;
+            gridSpacing = 54;
+            iconSize = 64;
+            labelOnBottom = 1;
+            showIconPreview = 1;
+            showItemInfo = 0;
+            textSize = 12;
+            viewOptionsVersion = 1;
+        };
+        ListViewSettings =         {
+            calculateAllSizes = 1;
+            columns =             {
+                comments =                 {
+                    ascending = 1;
+                    index = 7;
+                    visible = 0;
+                    width = 300;
+                };
+                dateCreated =                 {
+                    ascending = 0;
+                    index = 2;
+                    visible = 0;
+                    width = 181;
+                };
+                dateLastOpened =                 {
+                    ascending = 0;
+                    index = 8;
+                    visible = 0;
+                    width = 188;
+                };
+                dateModified =                 {
+                    ascending = 0;
+                    index = 1;
+                    visible = 1;
+                    width = 181;
+                };
+                kind =                 {
+                    ascending = 1;
+                    index = 4;
+                    visible = 1;
+                    width = 115;
+                };
+                label =                 {
+                    ascending = 1;
+                    index = 5;
+                    visible = 0;
+                    width = 100;
+                };
+                name =                 {
+                    ascending = 1;
+                    index = 0;
+                    visible = 1;
+                    width = 463;
+                };
+                size =                 {
+                    ascending = 0;
+                    index = 3;
+                    visible = 1;
+                    width = 97;
+                };
+                version =                 {
+                    ascending = 1;
+                    index = 6;
+                    visible = 0;
+                    width = 75;
+                };
+            };
+            iconSize = 16;
+            scrollPositionX = 0;
+            scrollPositionY = 0;
+            showIconPreview = 1;
+            sortColumn = kind;
+            textSize = 12;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        SettingsType = StandardViewSettings;
+    };
+    TagsCloudSerialNumber = 26;
+    TrashViewSettings =     {
+        CustomViewStyleVersion = 1;
+        ExtendedListViewSettingsV2 =         {
+            calculateAllSizes = 1;
+            columns =             (
+                                {
+                    ascending = 1;
+                    identifier = name;
+                    visible = 1;
+                    width = 392;
+                },
+                                {
+                    ascending = 0;
+                    identifier = ubiquity;
+                    visible = 0;
+                    width = 35;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateModified;
+                    visible = 1;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateCreated;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = size;
+                    visible = 1;
+                    width = 97;
+                },
+                                {
+                    ascending = 1;
+                    identifier = kind;
+                    visible = 1;
+                    width = 115;
+                },
+                                {
+                    ascending = 1;
+                    identifier = label;
+                    visible = 0;
+                    width = 100;
+                },
+                                {
+                    ascending = 1;
+                    identifier = version;
+                    visible = 0;
+                    width = 75;
+                },
+                                {
+                    ascending = 1;
+                    identifier = comments;
+                    visible = 0;
+                    width = 300;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateLastOpened;
+                    visible = 0;
+                    width = 200;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateAdded;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareOwner;
+                    visible = 0;
+                    width = 210;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareLastEditor;
+                    visible = 0;
+                    width = 210;
+                },
+                                {
+                    ascending = 0;
+                    identifier = invitationStatus;
+                    visible = 0;
+                    width = 210;
+                }
+            );
+            iconSize = 16;
+            scrollPositionX = 0;
+            scrollPositionY = 0;
+            showIconPreview = 1;
+            sortColumn = kind;
+            textSize = 12;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        ListViewSettings =         {
+            calculateAllSizes = 1;
+            columns =             {
+                comments =                 {
+                    ascending = 1;
+                    index = 7;
+                    visible = 0;
+                    width = 300;
+                };
+                dateCreated =                 {
+                    ascending = 0;
+                    index = 2;
+                    visible = 0;
+                    width = 181;
+                };
+                dateLastOpened =                 {
+                    ascending = 0;
+                    index = 8;
+                    visible = 0;
+                    width = 200;
+                };
+                dateModified =                 {
+                    ascending = 0;
+                    index = 1;
+                    visible = 1;
+                    width = 181;
+                };
+                kind =                 {
+                    ascending = 1;
+                    index = 4;
+                    visible = 1;
+                    width = 115;
+                };
+                label =                 {
+                    ascending = 1;
+                    index = 5;
+                    visible = 0;
+                    width = 100;
+                };
+                name =                 {
+                    ascending = 1;
+                    index = 0;
+                    visible = 1;
+                    width = 392;
+                };
+                size =                 {
+                    ascending = 0;
+                    index = 3;
+                    visible = 1;
+                    width = 97;
+                };
+                version =                 {
+                    ascending = 1;
+                    index = 6;
+                    visible = 0;
+                    width = 75;
+                };
+            };
+            iconSize = 16;
+            scrollPositionX = 0;
+            scrollPositionY = 0;
+            showIconPreview = 1;
+            sortColumn = kind;
+            textSize = 12;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        WindowState =         {
+            ContainerShowSidebar = 1;
+            ShowPathbar = 1;
+            ShowSidebar = 1;
+            ShowStatusBar = 1;
+            ShowTabView = 1;
+            ShowToolbar = 1;
+            WindowBounds = "{{503, 179}, {920, 492}}";
+        };
+    };
+    "ViewOptionsWindow.Location" = "{1141, 115}";
+}

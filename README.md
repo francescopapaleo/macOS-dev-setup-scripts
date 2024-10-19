@@ -1,6 +1,7 @@
-# macOS DevSetup Scripts
+# macOS Dev Setup
 
-A collection of Bash scripts designed to automate the setup and configuration of a macOS development environment. This repo relies on [Homebrew](https://brew.sh/), a package manager for macOS or Linux.
+A collection of Bash scripts designed to automate the setup and configuration of a macOS development environment. 
+This repo relies on [Homebrew](https://brew.sh/), a package manager for macOS or Linux.
 
 ## Features
 
