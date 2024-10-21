@@ -5,10 +5,10 @@ brew install --cask reaper
 brew install --cask cycling74-max
 brew install --cask qlab
 # brew install --cask sonic-visualiser
-# brew install --cask rekordbox
+brew install --cask rekordbox
 # brew install --cask audacity
-# brew install --cask freac
-# brew install --cask ffmpeg
+brew install --cask freac
+brew install --cask ffmpeg
 
 echo "Installing Audio Plugins..."
 

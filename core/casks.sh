@@ -12,19 +12,19 @@ brew install --cask visual-studio-code
 brew install --cask rar
 brew install --cask qlmarkdown
 brew install --cask angry-ip-scanner
-# brew install --cask mysqlworkbench
+brew install --cask mysqlworkbench
 # brew install --cask qjackctl
 # brew install --cask filezilla
 # brew install --cask sourcetree
 
-# brew install --cask firefox
+brew install --cask firefox
 brew install --cask google-chrome
 brew install --cask google-drive
 brew install --cask dropbox
 # brew install --cask slack
 # brew install --cask zoom
-# brew install --cask whatsapp
-# brew install --cask telegram
+brew install --cask whatsapp
+brew install --cask telegram
 brew install --cask discord
 # brew install --cask notion
 # brew install --cask zotero
