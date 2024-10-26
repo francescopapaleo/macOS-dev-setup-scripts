@@ -13,7 +13,6 @@ mechatroner.rainbow-csv
 ms-python.black-formatter
 ms-python.debugpy
 ms-python.python
-ms-python.vscode-pylance
 ms-toolsai.jupyter
 ms-toolsai.jupyter-keymap
 ms-toolsai.jupyter-renderers
@@ -21,7 +20,6 @@ ms-toolsai.vscode-jupyter-cell-tags
 ms-toolsai.vscode-jupyter-slideshow
 ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-ssh-edit
-ms-vscode.azure-repos
 ms-vscode.remote-explorer
 ms-vscode.remote-repositories
 ms-vscode.remote-server
